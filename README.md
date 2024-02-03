@@ -1,6 +1,6 @@
-# README
 
-## Alfabet Worker
+
+# Alfabet Worker
 
 Alfabet Worker is a Django application that sends notifications to the RabbitMQ. It's designed to notify participants about upcoming events.
 
